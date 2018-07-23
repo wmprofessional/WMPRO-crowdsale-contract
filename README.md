@@ -1,1 +1,1 @@
-# WMPRO-crowdsale-contract
+# WMPRO-contract
